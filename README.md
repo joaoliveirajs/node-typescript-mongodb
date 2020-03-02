@@ -1,5 +1,5 @@
 # node-typescript-mongodb
-CRUD with Typescript and MongoDB
+CRUD with Node.js, Typescript and MongoDB
 
 ## Routes documentation
 - POST
