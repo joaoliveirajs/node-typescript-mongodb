@@ -11,7 +11,7 @@ CRUD with Node.js, Typescript and MongoDB
     > Return all users
 - PATCH
   > /users
-    > Body { id * required *, name, email, password }
+    > Body { id ** required **, name, email, password }
   
 - GET
   > /users/:id
