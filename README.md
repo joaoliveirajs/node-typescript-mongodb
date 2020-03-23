@@ -1,9 +1,6 @@
 # node-typescript-mongodb
 CRUD with Node.js, Typescript and MongoDB
 
-# Deployed project link: 
-- https://nodets-mongodb.herokuapp.com/
-
 ## Routes documentation
 - POST
    > /users 
